@@ -15,7 +15,7 @@
 
 ### Basic
 
-
+- [백준 10818 - 최소, 최대](Basic/B_10818.cpp)
 
 ### DrawStars
 
